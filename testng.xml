@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/QA/DemoQa_Selenide">
+        <classes>
+            <class name="com.digital.ui.pages.elements.CheckBoxTest">
+                <methods>
+                    <include name="isChecked"/>
+                </methods>
+            </class>
+            <class name="com.digital.ui.pages.elements.RadioButtonTest">
+                <methods>
+                    <include name="yes"/>
+                    <include name="impressive"/>
+                </methods>
+            </class>
+            <class name="com.digital.ui.pages.elements.TextBoxTest">
+                <methods>
+                    <include name="fillFullName"/>
+                </methods>
+            </class>
+            <class name="com.digital.ui.pages.elements.WebTablesTest">
+                <methods>
+                    <include name="addUser1"/>
+                    <include name="addUser2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

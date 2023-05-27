@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-21T20:03:24 ALMT" name="All Test Suite" finished-at="2023-05-21T20:04:54 ALMT" duration-ms="89546">
+    <groups>
+    </groups>
+    <test started-at="2023-05-21T20:03:24 ALMT" name="E:/QA/DemoQa_Selenide" finished-at="2023-05-21T20:04:54 ALMT" duration-ms="89546">
+      <class name="com.digital.ui.pages.elements.RadioButtonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.digital.ui.pages.elements.RadioButtonTest@2bebb74f]" started-at="2023-05-21T20:04:25 ALMT" name="setUp" finished-at="2023-05-21T20:04:25 ALMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.digital.ui.pages.elements.RadioButtonTest@2bebb74f]" started-at="2023-05-21T20:04:25 ALMT" name="beforeMethod" finished-at="2023-05-21T20:04:27 ALMT" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="yes()[pri:0, instance:com.digital.ui.pages.elements.RadioButtonTest@2bebb74f]" started-at="2023-05-21T20:04:27 ALMT" name="yes" finished-at="2023-05-21T20:04:29 ALMT" duration-ms="2312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yes -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.digital.ui.pages.elements.RadioButtonTest@2bebb74f]" started-at="2023-05-21T20:04:29 ALMT" name="beforeMethod" finished-at="2023-05-21T20:04:33 ALMT" duration-ms="4129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="impressive()[pri:0, instance:com.digital.ui.pages.elements.RadioButtonTest@2bebb74f]" started-at="2023-05-21T20:04:33 ALMT" name="impressive" finished-at="2023-05-21T20:04:34 ALMT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- impressive -->
+      </class> <!-- com.digital.ui.pages.elements.RadioButtonTest -->
+      <class name="com.digital.ui.pages.elements.TextBoxTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.digital.ui.pages.elements.TextBoxTest@58cf8f94]" started-at="2023-05-21T20:04:34 ALMT" name="setUp" finished-at="2023-05-21T20:04:34 ALMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.digital.ui.pages.elements.TextBoxTest@58cf8f94]" started-at="2023-05-21T20:04:34 ALMT" name="beforeMethod" finished-at="2023-05-21T20:04:37 ALMT" duration-ms="2935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="fillFullName()[pri:1, instance:com.digital.ui.pages.elements.TextBoxTest@58cf8f94]" started-at="2023-05-21T20:04:37 ALMT" name="fillFullName" finished-at="2023-05-21T20:04:39 ALMT" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFullName -->
+      </class> <!-- com.digital.ui.pages.elements.TextBoxTest -->
+      <class name="com.digital.ui.pages.elements.CheckBoxTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.digital.ui.pages.elements.CheckBoxTest@499ef98e]" started-at="2023-05-21T20:03:24 ALMT" name="setUp" finished-at="2023-05-21T20:03:24 ALMT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.digital.ui.pages.elements.CheckBoxTest@499ef98e]" started-at="2023-05-21T20:03:25 ALMT" name="BeforeMethod" finished-at="2023-05-21T20:04:01 ALMT" duration-ms="36413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="isChecked()[pri:0, instance:com.digital.ui.pages.elements.CheckBoxTest@499ef98e]" started-at="2023-05-21T20:04:01 ALMT" name="isChecked" finished-at="2023-05-21T20:04:25 ALMT" duration-ms="23314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isChecked -->
+      </class> <!-- com.digital.ui.pages.elements.CheckBoxTest -->
+      <class name="com.digital.ui.pages.elements.WebTablesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.digital.ui.pages.elements.WebTablesTest@6d025d1d]" started-at="2023-05-21T20:04:39 ALMT" name="setUp" finished-at="2023-05-21T20:04:39 ALMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.digital.ui.pages.elements.WebTablesTest@6d025d1d]" started-at="2023-05-21T20:04:39 ALMT" name="beforeMethod" finished-at="2023-05-21T20:04:43 ALMT" duration-ms="4586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addUser1()[pri:0, instance:com.digital.ui.pages.elements.WebTablesTest@6d025d1d]" started-at="2023-05-21T20:04:43 ALMT" name="addUser1" finished-at="2023-05-21T20:04:51 ALMT" duration-ms="7561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser1 -->
+        <test-method signature="addUser2()[pri:0, instance:com.digital.ui.pages.elements.WebTablesTest@6d025d1d]" started-at="2023-05-21T20:04:51 ALMT" name="addUser2" finished-at="2023-05-21T20:04:54 ALMT" duration-ms="2951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser2 -->
+      </class> <!-- com.digital.ui.pages.elements.WebTablesTest -->
+    </test> <!-- E:/QA/DemoQa_Selenide -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

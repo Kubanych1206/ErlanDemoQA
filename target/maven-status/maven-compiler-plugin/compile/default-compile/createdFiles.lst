@@ -1,0 +1,11 @@
+com\digital\ui\element_helper\SelenideElementActions.class
+com\digital\ui\pages\elements\CheckBox.class
+com\digital\ui\element_helper\WebElementActions.class
+com\digital\ui\pages\elements\TextBox.class
+com\digital\ui\pages\Forms\PracticeForm.class
+com\digital\ui\BasePage.class
+com\digital\ui\pages\elements\Links.class
+com\digital\ui\pages\elements\Buttons.class
+com\digital\ui\pages\elements\WebTables.class
+com\digital\Main.class
+com\digital\ui\pages\elements\RadioButton.class
